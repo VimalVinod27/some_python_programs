@@ -1,3 +1,4 @@
+print("string sorting".center(40,'-'))
 limit=int(input("enter number of elements:"))
 print("enter the strings")
 alist=[input() for i in range(limit)]
